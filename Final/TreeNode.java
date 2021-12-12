@@ -13,10 +13,4 @@ public class TreeNode {
         this.left = left;
         this.right = right;
     }
-    public void buildLeft(TreeNode left) {
-        this.left = left;
-    }
-    public void buildRight(TreeNode right) {
-        this.right = right;
-    }
 }
